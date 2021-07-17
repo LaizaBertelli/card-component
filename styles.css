@@ -1,0 +1,34 @@
+body{
+    margin:0;
+    padding: 0;
+    background-color: hsl(233, 47%, 7%);
+    font-size: 15px;
+}
+b{
+    color: hsl(277, 64%, 61%);
+}
+p{
+    font-family: 'Lexend Deca, sans-serif'
+}
+#card{
+
+    font-family: 'Inter', sans-serif;
+    color: white;
+    background-color: hsl(244, 38%, 16%);
+    margin: 50px 20px 50px 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px 10px 0 0;
+}
+
+/* desktop desing for over 450px 
+maybe do a intermediate for ipad and tablets?
+*/
